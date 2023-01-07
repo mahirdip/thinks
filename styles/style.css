@@ -165,14 +165,12 @@
 .title-footer{
     font-size: 40px;
     color: white;
-    padding-bottom: 22px;
     padding-top: 150px;
     
 }
 
 .title-description{
     color: #FFFFFF;
-    padding-bottom: 60px;
     margin-right: 1250px;
     height: 35px;
 }
@@ -196,3 +194,39 @@
     padding-bottom: 100px;
 }
 
+.Subscribe{
+    text-align: right;
+    color: #FFFFFF;
+    font-size: 25px;
+    padding-right: 480px;
+}
+
+.form{
+    padding-left: 1150px;
+}
+input{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 100px;
+    background-color: black;
+    font-size: 18px;
+    color: white;
+    border: 1px solid ;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+
+
+.button-footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 36px;
+    padding-right: 36px;
+    color: white;
+    font-size: 20px;
+    background-color: #005FAC;
+    border-radius: 5px;
+    margin-left: 1150px;
+    margin-top: 48px;
+}
